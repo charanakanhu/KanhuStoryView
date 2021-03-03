@@ -1,0 +1,3 @@
+include ':KanhuStoryView'
+include ':app'
+rootProject.name = "KanhuView"
