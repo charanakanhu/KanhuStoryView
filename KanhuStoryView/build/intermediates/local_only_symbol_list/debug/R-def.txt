@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+attr? gapBetweenProgressBar
+attr? pendingIndicatorColor
+attr? progressBarHeight
+attr? progressBarPrimaryColor
+attr? progressBarSecondaryColor
+attr? singleStoryDisplayTime
+attr? spaceBetweenImageAndIndicator
+attr? storyImageRadius
+attr? storyItemIndicatorWidth
+attr? visitedIndicatorColor
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+id progressBarView
+id storyImage
+id storyTime
+id storyUserName
+layout activity_kanhu_player
+styleable StoryPlayerProgressView progressBarHeight gapBetweenProgressBar progressBarPrimaryColor progressBarSecondaryColor singleStoryDisplayTime
+styleable StoryView storyImageRadius storyItemIndicatorWidth spaceBetweenImageAndIndicator pendingIndicatorColor visitedIndicatorColor
